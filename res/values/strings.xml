@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mobile Network HW1</string>
+    <string name="action_settings">Settings</string>
+    <string name="IP">IP</string>
+    <string name="Port">Port</string>
+    <string name="Strat_Capture">Start Capture</string>
+    <string name="Stop_Capture">Stop Capture</string>
+    <string name="Send_GPS">Send GPS</string>
+    <string name="Send_Orientation">Send Orientation</string>
+    <string name="Send_Accelerometer">Send Accelerometer</string>
+
+</resources>

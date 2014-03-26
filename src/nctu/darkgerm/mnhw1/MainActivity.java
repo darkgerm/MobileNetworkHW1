@@ -158,7 +158,6 @@ class PlaceholderFragment extends Fragment {
                 SocketConnect socket = new SocketConnect(
                     et_IP.getText().toString(),
                     Integer.parseInt(et_Port.getText().toString())
-                    //"140.113.131.68", 10000
                 );
                 socket.send(tv.getText().toString());
                 String receive = socket.recv();

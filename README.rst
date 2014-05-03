@@ -6,6 +6,8 @@ Mobile Network Homework 1
 - Android version: 4.2 (API Level 17).
 - Also compatible with 4.1. But I didn't test other versions.
 
+.. image:: screenshot.png
+
 Functions
 ---------
 
